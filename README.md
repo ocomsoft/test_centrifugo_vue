@@ -1,24 +1,9 @@
 # test_centrifugo_vue
+This project is a Test of using Vue with Centrifugo [https://centrifugal.github.io/centrifugo] and Vue.js
 
-## Project setup
-```
-yarn install
-```
+See ./centrifugo/README.md on getting started with it.
 
-### Compiles and hot-reloads for development
+Then run
+```bash 
+./run.sh
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

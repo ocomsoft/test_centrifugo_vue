@@ -20,3 +20,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+centrifugo/centrifugo
+centrifugo/config.json
+centrifugo/install/
